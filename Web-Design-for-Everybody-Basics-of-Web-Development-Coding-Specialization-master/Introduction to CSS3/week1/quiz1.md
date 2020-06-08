@@ -6,7 +6,7 @@ Question 1
 Which of the following is not an option for specifying a color in CSS3?
 
 
-[x] - All of these options are valid.
+- [x]  All of these options are valid.
 
 --------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ body{
 }
 ```
 
-[x] - False
+- [x]  False
 
 -----------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ body{
 }
 ```
 
-[x] - There is a missing semicolon
+- [x]  There is a missing semicolon
 
 ---------------------------------------
 
@@ -48,7 +48,7 @@ What happens if the browser doesn't support any of these font families?
 
 
 
-[x] - The text will be displayed in the default browser font-family
+- [x]   The text will be displayed in the default browser font-family
 
 -----------------------------------------------------------------
 
@@ -56,7 +56,7 @@ Question 5
 The browser defaults override rules specified in an external style sheets.
 
 
-[x] - False
+- [x]  False
 
 -----------------------------------------------------------------------
 
@@ -76,7 +76,7 @@ Using the code below, will the body of the page have the background-color define
 </head>
 
 ```
-[x] - <style>
+- [x]  <style>
 
 
 
@@ -87,7 +87,7 @@ Internal styling (rules specified in the <head> section) override rules specifie
 
 
 
-[x] - False
+- [x]  False
 
 ----------------------------------------------------
 
@@ -95,7 +95,7 @@ Question 8
 The default display value for <a> element is:
 
 
-[x] - inline
+- [x]  inline
 
 ------------------------------------------------------------------
 
@@ -103,7 +103,7 @@ Question 9
 The default display value for <span> is:
 
 
-[x] - inline-block
+- [x]  inline-block
 
 ----------------------------------------------------------------------
 
@@ -111,8 +111,7 @@ Question 10
 A block element takes up the full width of it's parent, even if the content is smaller than the parent. So two block elements at the same will not be side-by-side.
 
 
-
-[x] - True
+- [x]  True
 
 -----------------------------------------------------------------------
 
@@ -122,7 +121,7 @@ Inline elements take up the full width of the browser, even if the content is sm
 
 
 
-[x] - False
+- [x]  False
 
 --------------------------------------------------------------------------------
 
@@ -131,7 +130,8 @@ Which CSS3 property is used to center text? (Only provide the property name; do 
 
 
 
-[x] - text-align
+- [x]  text-align
+
 -----------------------------------------------
 
 13.Question 13
@@ -139,7 +139,7 @@ Which of the following is the best way to convey that your text has special mean
 
 
 
-[x] - Using a larger font size to signify the important text
+- [x]  Using a larger font size to signify the important text
 
 -----------------------------------------------------------
 
