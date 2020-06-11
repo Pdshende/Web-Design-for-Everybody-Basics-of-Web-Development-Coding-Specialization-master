@@ -107,12 +107,14 @@ What is the correct HTML for referring to an external style sheet stored in a su
 - [x] <link rel="stylesheet" href="css/mystyle.css"> 
  
 6.Question 6
-The link to the external style sheet should be in the:
+The style tag and the style attribute are interchangeable -- this means that you accomplish the same effect with both.
 
 
 
 
-- [x] Meta-data - <head>
+
+
+- [x] False
 
 
 
@@ -143,7 +145,7 @@ margin: 5px 10px 3px 8px;
 
 
 
-- [x] 8px
+- [x] 10px
 
 10.Question 10
 The # symbol specifies that the selector is a/an
@@ -163,7 +165,7 @@ Which of the following would be used to create class called button which has a w
 
 
 
-- [x] .button { height: 30px; width: 750px; text: black; }
+- [x] .button { height: 30px; width: 750px; color: black; }
 
 
 
@@ -192,7 +194,6 @@ Which of the following is not a browser prefix?
 - [x] edge
 
 
-moz
 
 15.Question 15
 Descendant selectors
