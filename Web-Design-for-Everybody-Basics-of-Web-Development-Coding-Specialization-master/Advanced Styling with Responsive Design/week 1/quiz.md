@@ -70,6 +70,7 @@ Which fluid measurement type returns a percentage of the viewport height?
 
 - [x] vh
 
+----------------------------------------------
 
 Question 9
 The fluid measurement % can only be used on non-textual elements
@@ -112,9 +113,7 @@ Question 13
 If you have an element with the font size of 15px, and a child element inside with a font-size set to 3em, what is the font size of the child in px? (Provide a number only, not the measurement too.)
 
 
-em
-Incorrect
-The answer you gave is not a number.
+- [x] 9
 
 -------------------------
 
@@ -122,9 +121,8 @@ Question 14
 An _______ is the size of type as computed relative to the type size of the parent element.
 
 
-rem
-Incorrect
-Check out the article "Whats the Deal with the Em and Rem" for the answer.
+- [x] em
+
 
 -------------------------------
 
@@ -140,16 +138,13 @@ Question 16
 Which measurement is easier and comfortable for the designer/developer to use when coding their CSS but does not provide the best experience for the user?
 
 
-No answer
-Incorrect
-Check out the article "Whats the Deal with the Em and Rem" for the answer. They specifically mention situations where the user doesn't have a great deal of control.
+- [x] px
 
 ----------------------------
 
 Question 17
 1 _____ = 1% of viewport width
 
-0 / 1 point
-12
+- [x] vh
 
 ------------------------------------------
